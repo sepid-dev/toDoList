@@ -1,0 +1,3 @@
+### TO DO LIST
+
+*this is a sample to do list app , you can handle your tasks by adding them in the input field,after enter it will add to a list of the colored box and when the tasks finish you can click of the task , and it will be changed to colored background , also you can delete your task from the list and there is a different theme include dark and light, you can find them in the another branch *
