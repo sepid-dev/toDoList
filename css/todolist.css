@@ -1,3 +1,7 @@
+.mybody{
+    background-color: #1c1f23;
+    color: whitesmoke;
+}
 
 #myInput{
     height: 500px;
@@ -92,6 +96,7 @@ form.loginF .inputs .inputMe{
 
 .green{
     background-color: mediumspringgreen!important;
+    color: #1c1f23 !important;
 }
 
 
@@ -100,7 +105,8 @@ form.loginF .inputs .inputMe{
     border: solid 1px seagreen;
     margin-bottom: 20px;
     padding: 10px;
-    background-color:cornflowerblue ;
+    background-color:whitesmoke;
+    color: #1c1f23 !important;
     position: relative;
     transition: background-color 2s;
 }
