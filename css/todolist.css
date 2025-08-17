@@ -119,3 +119,7 @@ form.loginF .inputs .inputMe{
 .deletL{
    display: none;
 }
+
+.container{
+    border: solid 5px seagreen;
+}
