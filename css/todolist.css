@@ -127,3 +127,10 @@ form.loginF .inputs .inputMe{
      color: seagreen;
      font-weight: bold;
  }
+
+ #planbtn{
+     width: 90%;
+     background-color:seagreen;
+     color: white;
+     font-weight: bold;
+ }
