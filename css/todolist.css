@@ -128,6 +128,9 @@ form.loginF .inputs .inputMe{
      font-weight: bold;
  }
 
- .list{
-     border:solid 3px seagreen;
+ #planbtn{
+     width: 90%;
+     background-color:seagreen;
+     color: white;
+     font-weight: bold;
  }
