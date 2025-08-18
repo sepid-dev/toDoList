@@ -119,7 +119,6 @@ form.loginF .inputs .inputMe{
 .deletL{
    display: none;
 }
-
-.container{
-    border: solid 5px seagreen;
-}
+ #mydate{
+     border:solid 3px seagreen;
+ }
