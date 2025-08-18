@@ -134,3 +134,6 @@ form.loginF .inputs .inputMe{
      color: white;
      font-weight: bold;
  }
+.list{
+    border:solid 3px seagreen;
+}
